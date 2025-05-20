@@ -8,7 +8,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-13/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-14/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-15/refs/heads/main/configs/proxy_configs.txt",
-    "https://getafreenode.com/subscribe/?uuid=413c8b50-96bf-4457-82f2-54dfa8685f53",
+    "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-16/refs/heads/main/configs/proxy_configs.txt",
     "https://getafreenode.com/subscribe/?uuid=ebbeef45-0fd8-40cd-aca5-1e2ce18abeff",
     "https://getafreenode.com/subscribe/?uuid=e31ad3e6-e341-42ac-bdc7-bea02d126fc1",
     "https://getafreenode.com/subscribe/?uuid=4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
