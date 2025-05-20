@@ -11,7 +11,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-16/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-17/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-18/refs/heads/main/configs/proxy_configs.txt",
-    "https://getafreenode.com/subscribe/?uuid=4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
+    "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-19/refs/heads/main/configs/proxy_configs.txt",
     "https://getafreenode.com/subscribe/?uuid=55ca7a9e-cf90-49df-b14a-9346c59b73b9",
     # Add more URLs here if you want to include additional sources.
 ]
