@@ -4,11 +4,19 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@107.172.235.75:44789/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@107.172.235.75:56381/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@23.132.228.217:21567/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:53069/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@85.235.205.212:36012/?sni=dxobg4azmk.gafnode.sbs#Moscow-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@85.235.205.212:56410/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
+
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@107.172.235.75:56381/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:53069/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@85.235.205.212:56410/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
 

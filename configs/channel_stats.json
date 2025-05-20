@@ -1,18 +1,41 @@
 {
-  "timestamp": "2025-05-14T18:25:15.213629+00:00",
+  "timestamp": "2025-05-20T08:01:07.102812+00:00",
   "channels": [
     {
-      "url": "https://getafreenode.com/subscribe/?uuid=942b9cb8-92fa-46ac-ae91-f69c8234434b",
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-11/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 36,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.14,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.57,
+        "last_success": "2025-05-20T08:01:04.688897+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 4,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://getafreenode.com/subscribe/?uuid=0cb527d9-6117-4bcf-a52b-1704b3458cef",
       "enabled": true,
       "metrics": {
         "total_configs": 72,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.83,
-        "last_success": "2025-05-14T18:25:15.212938+00:00",
+        "overall_score": 75.77,
+        "last_success": "2025-05-20T08:01:07.102174+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,

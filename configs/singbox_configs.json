@@ -79,10 +79,14 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-0df06ea3 (United States)",
-        "🇺🇦 hysteria2-81f85a2f (Ukraine)",
-        "🇮🇹 hysteria2-52701c26 (Italy)",
-        "🇷🇺 hysteria2-398e499a (Russia)",
+        "🇺🇸 hysteria2-0417be21 (United States)",
+        "🇺🇦 hysteria2-7b45651a (Ukraine)",
+        "🇮🇹 hysteria2-7adaccc8 (Italy)",
+        "🇷🇺 hysteria2-7af032d2 (Russia)",
+        "🇺🇸 hysteria2-a586ab4c (United States)",
+        "🇺🇦 hysteria2-edbe8b9c (Ukraine)",
+        "🇮🇹 hysteria2-720b1939 (Italy)",
+        "🇷🇺 hysteria2-d53b22d2 (Russia)",
         "direct"
       ]
     },
@@ -90,10 +94,14 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-0df06ea3 (United States)",
-        "🇺🇦 hysteria2-81f85a2f (Ukraine)",
-        "🇮🇹 hysteria2-52701c26 (Italy)",
-        "🇷🇺 hysteria2-398e499a (Russia)"
+        "🇺🇸 hysteria2-0417be21 (United States)",
+        "🇺🇦 hysteria2-7b45651a (Ukraine)",
+        "🇮🇹 hysteria2-7adaccc8 (Italy)",
+        "🇷🇺 hysteria2-7af032d2 (Russia)",
+        "🇺🇸 hysteria2-a586ab4c (United States)",
+        "🇺🇦 hysteria2-edbe8b9c (Ukraine)",
+        "🇮🇹 hysteria2-720b1939 (Italy)",
+        "🇷🇺 hysteria2-d53b22d2 (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,10 +113,10 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-0df06ea3 (United States)",
+      "tag": "🇺🇸 hysteria2-0417be21 (United States)",
       "server": "107.172.235.75",
-      "server_port": 44789,
-      "password": "942b9cb8-92fa-46ac-ae91-f69c8234434b",
+      "server_port": 56381,
+      "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -117,10 +125,10 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-81f85a2f (Ukraine)",
+      "tag": "🇺🇦 hysteria2-7b45651a (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 53684,
-      "password": "942b9cb8-92fa-46ac-ae91-f69c8234434b",
+      "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -129,10 +137,10 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-52701c26 (Italy)",
+      "tag": "🇮🇹 hysteria2-7adaccc8 (Italy)",
       "server": "23.132.228.217",
-      "server_port": 21567,
-      "password": "942b9cb8-92fa-46ac-ae91-f69c8234434b",
+      "server_port": 53069,
+      "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -141,10 +149,58 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-398e499a (Russia)",
+      "tag": "🇷🇺 hysteria2-7af032d2 (Russia)",
       "server": "85.235.205.212",
-      "server_port": 36012,
-      "password": "942b9cb8-92fa-46ac-ae91-f69c8234434b",
+      "server_port": 56410,
+      "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "dxobg4azmk.gafnode.sbs"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-a586ab4c (United States)",
+      "server": "107.172.235.75",
+      "server_port": 56381,
+      "password": "48c2c901-72e6-46d4-ac78-169d73264cbf",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "dxobg4azmk.gafnode.sbs"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇦 hysteria2-edbe8b9c (Ukraine)",
+      "server": "185.126.255.78",
+      "server_port": 53684,
+      "password": "48c2c901-72e6-46d4-ac78-169d73264cbf",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "dxobg4azmk.gafnode.sbs"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇮🇹 hysteria2-720b1939 (Italy)",
+      "server": "23.132.228.217",
+      "server_port": 53069,
+      "password": "48c2c901-72e6-46d4-ac78-169d73264cbf",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "dxobg4azmk.gafnode.sbs"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇷🇺 hysteria2-d53b22d2 (Russia)",
+      "server": "85.235.205.212",
+      "server_port": 56410,
+      "password": "48c2c901-72e6-46d4-ac78-169d73264cbf",
       "tls": {
         "enabled": true,
         "insecure": true,
