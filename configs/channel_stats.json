@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-05-20T08:01:07.102812+00:00",
+  "timestamp": "2025-05-20T08:45:42.420043+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-11/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 36,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0.14,
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.57,
-        "last_success": "2025-05-20T08:01:04.688897+00:00",
+        "overall_score": 77.93,
+        "last_success": "2025-05-20T08:45:08.555186+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
+          "hysteria2://": 3,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
@@ -25,20 +25,204 @@
       }
     },
     {
-      "url": "https://getafreenode.com/subscribe/?uuid=0cb527d9-6117-4bcf-a52b-1704b3458cef",
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-12/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 72,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0.41,
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.77,
-        "last_success": "2025-05-20T08:01:07.102174+00:00",
+        "overall_score": 77.98,
+        "last_success": "2025-05-20T08:45:10.652152+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-13/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.12,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.94,
+        "last_success": "2025-05-20T08:45:12.774882+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-14/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.09,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.98,
+        "last_success": "2025-05-20T08:45:14.869094+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-15/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.08,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 78.01,
+        "last_success": "2025-05-20T08:45:16.949086+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-16/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.09,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.99,
+        "last_success": "2025-05-20T08:45:19.041827+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-17/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.1,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.98,
+        "last_success": "2025-05-20T08:45:21.140189+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-18/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.1,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.97,
+        "last_success": "2025-05-20T08:45:23.243421+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-19/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.1,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.98,
+        "last_success": "2025-05-20T08:45:25.339062+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-20/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 24,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 15.08,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 63.12,
+        "last_success": "2025-05-20T08:45:42.419358+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 3,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
