@@ -32,13 +32,13 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@107.172.235.75:38834/?sni=dxobg
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
@@ -50,7 +50,7 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@107.172.235.75:38834/?sni=dxobg
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
@@ -62,11 +62,11 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@107.172.235.75:38834/?sni=dxobg
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
