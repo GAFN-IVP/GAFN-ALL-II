@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-21T17:19:44.759379+00:00",
+  "timestamp": "2025-06-21T18:30:44.670131+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-11/refs/heads/main/configs/proxy_configs.txt",
@@ -72,19 +72,19 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-14/refs/heads/main/configs/proxy_configs.txt",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.1,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 78.43,
-        "last_success": "2025-06-21T17:19:30.132758+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 2,
+          "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
@@ -146,11 +146,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.43,
-        "last_success": "2025-06-21T17:19:36.390442+00:00",
+        "overall_score": 78.34,
+        "last_success": "2025-06-21T18:30:35.969622+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
