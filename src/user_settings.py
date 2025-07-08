@@ -14,6 +14,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-19/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-20/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-21/refs/heads/main/configs/proxy_configs.txt",
+    "https://sub.cloxy.io/cloxy?token=14a78a67534817a226ca1bd19a369f81",
     # Add more URLs here if you want to include additional sources.
 ]
 
@@ -30,9 +31,9 @@ SPECIFIC_CONFIG_COUNT = 1000
 ENABLED_PROTOCOLS = {
     "wireguard://": False,
     "hysteria2://": True,
-    "vless://": False,
+    "vless://": True,
     "vmess://": False,
-    "ss://": False,
+    "ss://": True,
     "trojan://": False,
     "tuic://": False,
 }
