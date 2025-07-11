@@ -14,7 +14,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-19/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-20/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-21/refs/heads/main/configs/proxy_configs.txt",
-    "https://sub.cloxy.io/cloxy?token=14a78a67534817a226ca1bd19a369f81",
     # Add more URLs here if you want to include additional sources.
 ]
 
