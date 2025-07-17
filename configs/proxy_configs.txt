@@ -10,12 +10,6 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49720/?sni=dxobg
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:52281/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:52281/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
