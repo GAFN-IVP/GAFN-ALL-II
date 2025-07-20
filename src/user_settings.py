@@ -10,7 +10,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-15/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-16/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-17/refs/heads/main/configs/proxy_configs.txt",
-    "https://n67.688997.xyz/api/v1/client/subscribe?token=a65ab3a38c5b887a6fd03518cd6c2649",
+    "https://ne688.688997.xyz/api/v1/client/subscribe?token=33f9c45d3998037ef57227a709aec199",
     "https://loopycloudcfjiasucdn.xx.kg/api/86fcb010421641c4588ee9b9b6dd0792",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-18/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-19/refs/heads/main/configs/proxy_configs.txt",
