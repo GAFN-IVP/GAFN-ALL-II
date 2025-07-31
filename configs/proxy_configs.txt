@@ -34,12 +34,6 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:45070/?sni=dxobg
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -62,7 +56,7 @@ hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@hg.dport.top:33656/?insecure=1&
 
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@hl.dport.top:33659/?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8D%B7%E5%85%B0
 
-hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A329.18%20GB
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A113.6%20GB
 
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
