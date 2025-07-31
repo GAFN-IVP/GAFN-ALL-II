@@ -5,7 +5,7 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-11/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-12/refs/heads/main/configs/proxy_configs.txt",
-    "https://gw.dport.top/api/v1/client/subscribe?token=fec95cab733010b61acfe126f45f4fd3",
+    "https://sh.dport.top/api/v1/client/subscribe?token=c36fefdf90f1fc57dcd9bc34177384c0",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-13/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-14/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-15/refs/heads/main/configs/proxy_configs.txt",
