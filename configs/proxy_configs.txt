@@ -8,7 +8,7 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:53861/?sni=dxob
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@bx.dport.top:33654/?insecure=1&sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%B7%B4%E8%A5%BF
 
@@ -20,7 +20,7 @@ hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@hg.dport.top:33656/?insecure=1&
 
 hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@hl.dport.top:33659/?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8D%B7%E5%85%B0
 
-hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A344.57%20GB
+hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A340.25%20GB
 
 hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@jnd.dport.top:33651/?insecure=1&sni=jnd.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
@@ -38,25 +38,25 @@ hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:53861/?sni=dxob
 
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -68,17 +68,17 @@ hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:53861/?sni=dxob
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@23.132.228.217:54562/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@23.132.228.217:48897/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
