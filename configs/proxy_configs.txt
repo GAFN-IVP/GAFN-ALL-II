@@ -4,18 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@bx.dport.top:33654/?insecure=1&sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%B7%B4%E8%A5%BF
 
 hysteria2://139fe171-d1a8-4a08-abd5-81660cd9459b@dg.dport.top:33653/?insecure=1&sni=dg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%BE%B7%E5%9B%BD
@@ -45,12 +33,6 @@ hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:44451/?sni=dxob
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
