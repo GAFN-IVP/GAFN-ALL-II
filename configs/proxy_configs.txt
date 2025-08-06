@@ -50,7 +50,7 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:44451/?sni=dxob
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:49825/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
