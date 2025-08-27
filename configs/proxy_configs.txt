@@ -12,6 +12,10 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:58718/?sni=real
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -19,6 +23,10 @@ hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:43429/?sni=real.
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
@@ -35,4 +43,8 @@ hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:58718/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
