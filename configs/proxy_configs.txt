@@ -4,23 +4,15 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:46117/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:46117/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:46117/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:46117/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:46117/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
