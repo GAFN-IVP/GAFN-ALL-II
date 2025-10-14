@@ -36,8 +36,6 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:49425/?sni=real.
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@38.190.150.10:49425/?sni=real.getafreenode.sbs#Kosovo-GetAFreeNode
-
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
