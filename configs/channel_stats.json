@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T22:21:07.157511+00:00",
+  "timestamp": "2025-10-19T23:20:32.398816+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mmsahvaz-org/GAFN-11/refs/heads/main/configs/proxy_configs.txt",
@@ -54,11 +54,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.45,
-        "last_success": "2025-10-19T22:20:50.520736+00:00",
+        "overall_score": 78.35,
+        "last_success": "2025-10-19T23:20:15.785578+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -146,11 +146,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.46,
-        "last_success": "2025-10-19T22:20:58.853802+00:00",
+        "last_success": "2025-10-19T23:20:24.084777+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -169,11 +169,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.46,
-        "last_success": "2025-10-19T22:21:00.927644+00:00",
+        "overall_score": 78.44,
+        "last_success": "2025-10-19T23:20:26.172408+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -195,8 +195,8 @@
         "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.46,
-        "last_success": "2025-10-19T22:21:03.003519+00:00",
+        "overall_score": 78.44,
+        "last_success": "2025-10-19T23:20:28.257372+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -241,8 +241,8 @@
         "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.47,
-        "last_success": "2025-10-19T22:21:07.156843+00:00",
+        "overall_score": 78.46,
+        "last_success": "2025-10-19T23:20:32.398235+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
